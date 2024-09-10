@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.20.0"
+  },
+  "name": "aula-03---atividade-02---tutorial-com-classes---parte-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "dev":"node --watch --no-warnings server.js"
+  },
+  "keywords": [],
+  "author": "Victor Anizau",
+  "license": "ISC",
+  "description": ""
+}
